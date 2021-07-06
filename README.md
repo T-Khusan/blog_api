@@ -1,3 +1,3 @@
-# Library Website and API
+# Blog API
 
-Django for APIs Build web APIs with Python code.
+Django for APIs, Build web APIs with Python code.
